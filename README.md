@@ -1,5 +1,5 @@
 # Mohamed Badawy 
 1. SQL
-2. ExCEl
+2. EXCEl
 
 
